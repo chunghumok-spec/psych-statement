@@ -4,13 +4,10 @@ title: 심리상담 공통업무화 추진 반대 성명
 
 # 심리상담의 정신건강전문요원 공통업무화 추진 반대 성명
 
-서울대학교 심리학과 대학원생 33명은 보건복지부공고 제2026-473호의 심리상담 공통업무화 추진을 중단하고 원점에서 재검토할 것을 요구합니다.
+이 저장소의 GitHub Pages 주소는 성명서 전문 PDF로 자동 연결됩니다.
 
-## 자료
+- [성명서 전문 PDF 보기](statement_260909.pdf)
+- [1페이지 요약본 보기](statement_summary_260909.pdf)
+- [공식 입법예고 원문](https://opinion.lawmaking.go.kr/gcom/ogLmPp/88348)
 
-- [성명서 전문 PDF 보기](statement.pdf)
-- [1페이지 요약본 보기](summary.pdf)
-- [카드뉴스 내려받기](cardnews.zip)
-- [공식 입법예고 원문](https://opinion.lawmaking.go.kr/gcom/ogLmPp/88348?isOgYn=Y)
-
-입법예고 의견제출 마감: 2026년 10월 19일
+서울대학교 심리학과 대학원생 33명이 참여했습니다.
