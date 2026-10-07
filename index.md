@@ -6,7 +6,7 @@ title: 심리상담 공통업무화 추진 반대 성명
 
 이 저장소의 GitHub Pages 주소는 성명서 전문 PDF로 자동 연결됩니다.
 
-- [성명서 전문 PDF 보기](statement_261008.pdf)
+- [성명서 전문 PDF 보기](statement_261008_1.pdf)
 - [1페이지 요약본 보기](statement_summary_260909.pdf)
 - [공식 입법예고 원문](https://opinion.lawmaking.go.kr/gcom/ogLmPp/88348)
 
