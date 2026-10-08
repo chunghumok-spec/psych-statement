@@ -4,4 +4,4 @@
 - 성명서 전문 PDF: https://chunghumok-spec.github.io/psych-statement/statement_261008.pdf
 - 공식 입법예고: https://opinion.lawmaking.go.kr/gcom/ogLmPp/88348
 
-서울대학교 심리학과 대학원생 33명이 참여했습니다.
+서울대학교 심리학과 학부생 18명, 대학원생 33명이 참여했습니다.
